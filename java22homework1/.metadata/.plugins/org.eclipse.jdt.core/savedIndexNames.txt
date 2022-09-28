@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Asus\OneDrive\Masaüstü\java22homework1\.metadata\.plugins\org.eclipse.jdt.core
+753514238.index
+1865797976.index
+3900342853.index
